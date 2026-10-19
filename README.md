@@ -16,12 +16,12 @@ API Integration: Fetch and display sample user data from a public API.
 User-Friendly GUI: Simple interface built with Tkinter.
 
 🛠️ Technologies Used:
-Python
-Tkinter
-SQLite
-REST API
-Requests Library
-JSONPlaceholder API
+1. Python
+2. Tkinter
+3. SQLite
+4. REST API
+5. Requests Library
+6. JSONPlaceholder API
 
 🎯 Project Objective:
 The objective of this project is to develop a simple contact management application while learning Python GUI development, database operations, REST API integration, and basic application testing.

@@ -21,6 +21,7 @@ Tkinter
 SQLite
 REST API
 Requests Library
+JSONPlaceholder API
 
 🎯 Project Objective:
 The objective of this project is to develop a simple contact management application while learning Python GUI development, database operations, REST API integration, and basic application testing.
@@ -32,12 +33,3 @@ The objective of this project is to develop a simple contact management applicat
 
 👩‍💻 Author:
 Saima Shaikh
-
-
-
-
-
-
-
-
-JSONPlaceholder API
